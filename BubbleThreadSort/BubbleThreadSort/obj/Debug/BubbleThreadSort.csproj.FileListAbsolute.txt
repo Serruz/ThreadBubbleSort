@@ -1,0 +1,24 @@
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe.config
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.pdb
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.exe
+D:\Visual Studio\Проекты C#. Рузин С.Б. группа 3.1\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.pdb
+J:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe.config
+J:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe
+J:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.pdb
+J:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.csprojResolveAssemblyReference.cache
+J:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.exe
+J:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.pdb
+F:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe.config
+F:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.exe
+F:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.pdb
+F:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe
+F:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.pdb
+F:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.csprojResolveAssemblyReference.cache
+E:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe.config
+E:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.exe
+E:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.pdb
+E:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.exe
+E:\Programs\BubbleThreadSort\BubbleThreadSort\bin\Debug\BubbleThreadSort.pdb
+E:\Programs\BubbleThreadSort\BubbleThreadSort\obj\Debug\BubbleThreadSort.csprojResolveAssemblyReference.cache
